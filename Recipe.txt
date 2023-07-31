@@ -3,5 +3,7 @@ kher
 pasta
 
 chicken
+pizza  
+bread
 
 Thank you)
